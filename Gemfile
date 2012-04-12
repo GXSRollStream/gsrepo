@@ -1,5 +1,3 @@
 source 'http://rubygems.org'
 
-gem 'geminabox'
-gem 'sinatra'
-gem 'heroku'
+gem 'geminabox', git: 'git://github.com/GXSRollStream/geminabox.git'
