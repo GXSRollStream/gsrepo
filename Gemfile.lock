@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/GXSRollStream/geminabox.git
-  revision: f309e75cc5e78385f23c97c6f0c724f621cd610c
+  revision: 0e26fa6f342eb4b54ee82be525b58777e33f8ad2
   specs:
     geminabox (0.6.1)
       builder
