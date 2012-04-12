@@ -38,5 +38,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   geminabox!
   heroku
